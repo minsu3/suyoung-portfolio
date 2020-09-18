@@ -1,0 +1,23 @@
+{
+  "name": "suyoung-portfolio",
+  "version": "1.0.0",
+  "description": "Landed by HTML5 UP\r html5up.net | @ajlkn\r Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d suyoung-portfolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minsu3/suyoung-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://minsu3.github.io/suyoung-portfolio",
+  "bugs": {
+    "url": "https://github.com/minsu3/suyoung-portfolio/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
